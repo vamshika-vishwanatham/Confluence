@@ -16,6 +16,9 @@ target/
 
 ### test-output selinium ####
 test-output
+reports/
+screenshots/
+
 
 ### IntelliJ IDEA ###
 .idea
